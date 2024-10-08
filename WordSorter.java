@@ -45,7 +45,7 @@ public class WordSorter
 		boolean runAgain = true;
 		while (runAgain){
 			System.out.println("What would you like to do?");
-			System.out.println("1.  Print out all words starting with a specific letter ");
+			System.out.println("1. Print out all words starting with a specific letter ");
 			System.out.println("2. Print out all words");
 			System.out.println("3. Print out the total number of unique words");
 			System.out.println("4. Search and determine if a word is in the article");
