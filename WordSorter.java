@@ -129,7 +129,6 @@ public class WordSorter
 
 	public static void printAll(ArrayList<String>[] arr){
 		char x = 97;
-		int numWords =0;
 		for (int i = 0; i<arr.length; i++){
 			System.out.println(x + ": ");
 			printLetter(arr,i);
