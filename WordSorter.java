@@ -1,4 +1,5 @@
 //Justin Wu, 10/2/24, Period 3
+//Program that outputs information on a sorted list of words based on the user input
 import java.io.File;
 import java.util.Scanner;
 import java.util.ArrayList;
